@@ -1,0 +1,34 @@
+{
+  "sourceLanguage" : "ja",
+  "strings" : {
+    "Accuracy: %@" : {
+
+    },
+    "Beacons" : {
+
+    },
+    "Distance: %@ meters" : {
+
+    },
+    "Filters" : {
+
+    },
+    "Major: %@, Minor: %@" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Major: %1$@, Minor: %2$@"
+          }
+        }
+      }
+    },
+    "RSSI: %@ dBm" : {
+
+    },
+    "UUID: %@" : {
+
+    }
+  },
+  "version" : "1.0"
+}
